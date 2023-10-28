@@ -137,4 +137,24 @@ align-items: center;
 border-top: 1px solid #e4e4e4;
 bottom: 0%;
 }
+.footer-location{
+    padding: 15px 30px;
+    border-bottom: 1px solid #dadce0;
+}
+.footer-left{
+    justify-content: left;
+}
+.footer-right{
+    justify-content: right;
+}
+footer ul{
+    margin: 10px;
+    list-style: none;
+    display: flex;
+    padding-left: 0px;
+}
+footer ul li a{
+    color: #70757a;
+    margin: 10px;
+}
 
